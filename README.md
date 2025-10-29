@@ -1,6 +1,7 @@
 # Sales-Analysis-on-Numeridex-Supermarket
 Exploratory Data Analysis using Excel and Power BI
-*<img width="1222" height="653" alt="Screenshot 2025-10-20 091657" src="https://github.com/user-attachments/assets/5e08fd82-cc09-4742-a3b6-7d08617a8d62" />
+<img width="1226" height="656" alt="Screenshot 2025-10-29 123658" src="https://github.com/user-attachments/assets/a1580c3d-ca5a-4d4b-bfcc-d6d2c52a0802" />
+
 ## Introduction
 This project analyzes a supermarket sales dataset containing detailed information on customer transactions across multiple branches. The aim is to identify sales trends, understand customer purchasing behavior, and evaluate overall business performance. Using Power BI, the data was cleaned, transformed, and visualized through interactive dashboards. These dashboards highlight sales trends across branches, top-performing product lines, customer preferences, and payment patterns. The insights gained from this analysis provide a clear understanding of what drives revenue and customer satisfaction, supporting data-driven decision-making for future growth.
 ## Objectives
